@@ -4,7 +4,7 @@ Cracker Instagram..
 
 
 
-#Start
+# Start
 
 
 
@@ -23,8 +23,8 @@ Cracker Instagram..
 #####
 
 
-#For Checking Proxy List :)
+# For Checking Proxy List :)
 
 
 
-###::) python3 Check_Proxy.py
+### :) python3 Check_Proxy.py
