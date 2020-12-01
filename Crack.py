@@ -1,5 +1,5 @@
 #Models
-import requests as r , os , json , time , Color as c , UserAgent as usr , Logo
+import requests as r , Color as c , UserAgent as usr , Logo
 #Headers
 headers ={
         'Host':'www.instagram.com',
